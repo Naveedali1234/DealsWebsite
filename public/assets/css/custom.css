@@ -1,0 +1,13 @@
+/*this would be for submenu listed in the menu section All*/
+.sub-nav a{
+	padding: 10px 15px;
+
+display: block;
+
+position: relative;
+
+color: black;
+
+background-color: #138496;
+margin: 10px 15px;
+}
